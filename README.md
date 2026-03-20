@@ -21,7 +21,11 @@ J’adore **apprendre**, **comprendre** et surtout **voir des résultats concret
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-<img src="https://img.shields.io/badge/Nyarch_Linux-FF69B4?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsTAAALEwEAmpwYAAADJ0lEQVQ4jW2UT2idBRjHP8/7vd/7Jm2atZ06t7Y6m9YpS8Y6mY6pIB0IB0IHEfSgiKAn76IevOnBkyCeBAs96clD8SCo6GByYIid7DbSutpOnS2urbS2S9u8v9/7POQlS9u88AsvPO8vPH+e5/m9T6SqvYv9vWvX6Z76mZnx77G9fS6eXWPf8A80Hn6Y9pEn6R5+mPZon9vPHeGZ8RN/e3v766Wlpf/uB7p3P66S9969z4vPPcs7589x9pMPuHThI75++00ufvYJn//4HRe/OMfVq5f56/p1Vv/8beXmzZs/An+v7V36Bv9GfXmZf65eZfX7S6xcvsyVy5e58OknfH3+S757913+Wf2D9fV11h8A9/K53VdfA15fXuYfH7xPnXnE8889y5mPP+L8uS8A+O3X61y5fIn7/9v6A+Anv7yv9/uW1lK63mY3m0Wv3zN86CG6p07RPXWK7unTdE+dpnv6Y7pPP0336T7ds7vYf+Y0rWOP0Xpkn9+P9uX86X/9V+fP0X3p7+8oE6eNInFfE6eJIvEaE6fGidM6ccofR877Y+S0Tpzm+WOfZ/vUaZpPHvL+U098/9XpXezf8XU6T5+m89RpOsc+S+f45+gcf5LO8SfpPP0UnWOfp3P8S3SOf4nO8S/TOf4InSefovmZz9E89ihv948A7/D2qSf/6Hz+C7u9X3yZ7vEn6T71JN2nnqT79JN0n36K7tNP033mabpP9+meO0f37Nl3Xz6f3Onv989/Sff8+S8f5VvA/Sffonv+H79L3v/9X7v38i12X76VfAnu9P66eAn6f8C9666f7p99P98fP/uF3VevAn/zS9Yv8E/+6Zfsl38J7vS/O9O/+rVd/f7zL+7q15Z/yV977Y93u/fKPXInX7L76jX7F3/J+pUf2H39BrtX/2L32lX7V3/J+vXr7F7/m91r1+z7P7B74wb9G6/Tv/kG/Zuv0//L9/Tv/EX/vWv077pG/9fX6f9z797Dqmqv9fL5AODW6mre6fXyTm+XdwY7eWewk98NdvL7vX7e7/X9/kGfR4Y9Hh0NeeLoMB6PeZSYPBaPOZSQPBqLPCaLPN6LeXww5vHe8D9piz8FjG6vOAAAAABJRU5ErkJggg==&logoColor=white" alt="Nyarch Linux Badge">
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="28">
+  <rect width="150" height="28" rx="3" fill="#FF69B4"/>
+  <image href="https://files.catbox.moe/epr8mw.png" x="10" y="4" width="20" height="20"/>
+  <text x="38" y="18" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="bold" style="text-transform:uppercase">Nyarch Linux</text>
+</svg>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
