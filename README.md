@@ -21,11 +21,7 @@ J’adore **apprendre**, **comprendre** et surtout **voir des résultats concret
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-<svg xmlns="http://www.w3.org/2000/svg" width="150" height="28">
-  <rect width="150" height="28" rx="3" fill="#FF69B4"/>
-  <image href="https://files.catbox.moe/epr8mw.png" x="10" y="4" width="20" height="20"/>
-  <text x="38" y="18" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="bold" style="text-transform:uppercase">Nyarch Linux</text>
-</svg>
+![Nyarch Linux](https://badgen.net/badge/Nyarch/Linux/ff69b4?icon=https://files.catbox.moe/epr8mw.png&labelColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
