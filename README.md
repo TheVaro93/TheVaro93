@@ -1,4 +1,72 @@
-## Hi there 👋
+# 👋 Hello world ! (^-^*)/
+
+## 🧑‍💻 À propos de moi
+Passionné par les **animes**, les **jeux vidéo** et tout ce qui touche à la **tech** et à l’**informatique**.  
+J’adore **apprendre**, **comprendre** et surtout **voir des résultats concrets** dans mes projets.
+
+---
+
+## 🚀 Compétences
+
+### 💡 Langages & outils
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+---
+
+## 📚 En cours d'apprentissage
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+> C'est frustrant... (x_x) 
+
+---
+
+## 🛠️ Projets
+
+### 🚧 BonkDrop
+> Plateforme en cours de développement pour partager du contenu rapidement  
+> et progresser dans des conditions réelles (front + back).
+
+- 🌐 Front-end
+- 🗄️ Base de données
+- 🖥️ Serveur
+- 📦 Stockage
+
+---
+
+## 📊 Stats GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🌍 Portfolio
+
+🔗 https://thevaro93.me
+
+N'hésitez pas à aller le visiter et à me dire ce que je pourrai améliorer, cela me ferait extrèmement plaisir ! (⌒_⌒;)
+
+---
+
+## 📫 Me contacter
+
+[![Discord](https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1053559455561826334)
+
+[![Email](https://img.shields.io/badge/Email-ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:thevaro93@proton.me)
+
+---
+
+## Merci d'avoir tout lu, vraiment !! Au revoir ! ٩(^ᴗ^)۶
 
 <!--
 **TheVaro93/TheVaro93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
