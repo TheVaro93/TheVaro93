@@ -44,9 +44,9 @@ J’adore **apprendre**, **comprendre** et surtout **voir des résultats concret
 
 ## 📊 Stats GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheVaro93&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheVaro93&layout=compact&theme=tokyonight)
 
 ---
 
