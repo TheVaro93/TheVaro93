@@ -21,7 +21,10 @@ J’adore **apprendre**, **comprendre** et surtout **voir des résultats concret
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-<img src="https://img.shields.io/badge/---FF69B4?style=for-the-badge" width="0"><img src="https://files.catbox.moe/epr8mw.png" height="28" style="background-color:#FF69B4; vertical-align:middle;"><img src="https://img.shields.io/badge/Nyarch_Linux-FF69B4?style=for-the-badge" style="vertical-align:middle;">
+<a href="https://nyarchlinux.org/">
+  <img src="https://img.shields.io/badge/Nyarch_Linux-FF69B4?style=for-the-badge" align="center">
+  <img src="https://files.catbox.moe/epr8mw.png" height="28" style="background-color: #FF69B4; margin-left: -100px; padding-right: 10px;" align="center">
+</a>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
