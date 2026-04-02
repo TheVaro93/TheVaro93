@@ -52,8 +52,6 @@ J’adore **apprendre**, **comprendre** et surtout **voir des résultats concret
 
 ## 📊 Stats GitHub
 
-<table>
-
     <tr>
 		<td colspan="2" align="center">
 			<img
@@ -77,7 +75,6 @@ J’adore **apprendre**, **comprendre** et surtout **voir des résultats concret
 			/>
 		</td>
 	</tr>
-</table>
 
 ---
 
