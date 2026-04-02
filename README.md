@@ -52,7 +52,32 @@ J’adore **apprendre**, **comprendre** et surtout **voir des résultats concret
 
 ## 📊 Stats GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheVaro93&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheVaro93&layout=compact&theme=tokyonight)
+<table>
+
+    <tr>
+		<td colspan="2" align="center">
+			<img
+				src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheVaro93&theme=tokyonight"
+				alt="GitHub Stats"
+			/>
+		</td>
+	</tr>
+    
+	<tr>
+		<td>
+			<img
+				src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheVaro93&theme=tokyonight"
+				alt="Top Languages by Repo"
+			/>
+		</td>
+		<td>
+			<img
+				src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheVaro93&theme=tokyonight"
+				alt="Top Languages by Commit"
+			/>
+		</td>
+	</tr>
+</table>
 
 ---
 
