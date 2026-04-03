@@ -8,7 +8,7 @@ J’adore **apprendre**, **comprendre** et surtout **voir des résultats concret
 
 ## 🚀 Compétences
 
-### 👍 Aquises
+### 👍 Acquises
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
@@ -29,7 +29,7 @@ J’adore **apprendre**, **comprendre** et surtout **voir des résultats concret
 
 ---
 
-## 🐇⌚ Ce je voudrais apprendre plus tard  
+## 🐇⌚ Ce que je voudrais apprendre plus tard  
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -52,29 +52,26 @@ J’adore **apprendre**, **comprendre** et surtout **voir des résultats concret
 
 ## 📊 Stats GitHub
 
-    <tr>
-		<td colspan="2" align="center">
-			<img
-				src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheVaro93&theme=tokyonight"
-				alt="GitHub Stats"
-			/>
-		</td>
-	</tr>
-    
-	<tr>
-		<td>
-			<img
-				src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheVaro93&theme=tokyonight"
-				alt="Top Languages by Repo"
-			/>
-		</td>
-		<td>
-			<img
-				src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheVaro93&theme=tokyonight"
-				alt="Top Languages by Commit"
-			/>
-		</td>
-	</tr>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheVaro93&theme=tokyonight"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheVaro93&theme=tokyonight"
+    alt="Top Languages by Repo"
+    width="49%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheVaro93&theme=tokyonight"
+    alt="Top Languages by Commit"
+    width="49%"
+  />
+</p>
+
 
 ---
 
@@ -82,7 +79,7 @@ J’adore **apprendre**, **comprendre** et surtout **voir des résultats concret
 
 🔗 https://thevaro93.me
 
-N'hésitez pas à aller le visiter et à me dire ce que je pourrai améliorer, cela me ferait extrèmement plaisir ! (⌒_⌒;)
+N'hésitez pas à le visiter et à me dire ce que je pourrais améliorer, cela me ferait extrêmement plaisir ! (⌒_⌒;)
 
 ---
 
