@@ -87,7 +87,7 @@ N'hésitez pas à le visiter et à me dire ce que je pourrais améliorer, cela m
 
 [![Discord](https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1053559455561826334)
 
-[![Email](https://img.shields.io/badge/Email-ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:thevaro93@proton.me)
+[![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge)](mailto:thevaro93@thevaro93.me)
 
 ---
 
